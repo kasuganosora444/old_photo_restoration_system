@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.py[cod]
+models/**/*.pth
+models/**/*.pt
+models/**/*.zip
+models/**/*.aria2
+wheelhouse/
+gfpgan/weights/
+data/input/*
+data/output/*
+!data/input/.gitkeep
+!data/output/.gitkeep
